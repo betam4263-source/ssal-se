@@ -13,9 +13,8 @@ app.use(cors({ origin: "*", credentials: true }));
 app.use(require("morgan")("dev"));
 
 const emailData = {
-  user: "awork53368@gmail.com",
-  pass: "hizl bhdj avtc xup
-",
+  user: "absherkaram2@gmail.com",
+  pass: "flsx xlez cllj eqmi",
   // user: "karamalzoubi2045@gmail.com",
   // pass: "aczd aicu rmru eiha",
 };
